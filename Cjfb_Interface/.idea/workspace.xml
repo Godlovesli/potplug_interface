@@ -369,15 +369,15 @@
     <session id="-828780682">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="7" />
-          <entry key="project.open.time.1" value="12" />
+          <entry key="project.open.time.1" value="13" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -417,7 +417,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base/cjbase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1886">
+            <state relative-caret-position="1748">
               <caret line="82" column="8" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
               <folding>
                 <element signature="e#143#239#0" expanded="true" />
@@ -439,11 +439,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/all_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-322">
-              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="161">
+              <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
               <folding>
                 <element signature="e#45#54#0" expanded="true" />
-                <marker date="1543994831307" expanded="true" signature="382:809" ph="..." />
+                <marker date="1544091118940" expanded="true" signature="378:805" ph="..." />
               </folding>
             </state>
           </provider>
@@ -471,7 +471,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/v7interface/test_v7recipechooselist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
+            <state relative-caret-position="276">
               <caret line="14" column="39" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="39" />
               <folding>
                 <element signature="e#162#194#0" expanded="true" />
@@ -483,7 +483,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base/cjbase1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
+            <state relative-caret-position="414">
               <caret line="23" column="53" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="53" />
               <folding>
                 <element signature="e#143#243#0" expanded="true" />
@@ -511,7 +511,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--follow-tags" />
@@ -582,10 +582,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
-    <option name="width" value="1935" />
-    <option name="height" value="1032" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -611,6 +611,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -632,7 +633,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -947,12 +947,13 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1290" height="688" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39204547" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39692804" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.4995958" visible="true" weight="0.5989209" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.4995958" weight="0.5989209" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.40674955" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5399645" />
@@ -1235,7 +1236,7 @@
     <entry file="file://$PROJECT_DIR$/report2018-11-26 16_18_19result.html" />
     <entry file="file://$PROJECT_DIR$/base/cjbase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1886">
+        <state relative-caret-position="1748">
           <caret line="82" column="8" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
           <folding>
             <element signature="e#143#239#0" expanded="true" />
@@ -1264,7 +1265,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v7interface/test_v7recipechooselist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
+        <state relative-caret-position="276">
           <caret line="14" column="39" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="39" />
           <folding>
             <element signature="e#162#194#0" expanded="true" />
@@ -1274,7 +1275,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/base/cjbase1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
+        <state relative-caret-position="414">
           <caret line="23" column="53" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="53" />
           <folding>
             <element signature="e#143#243#0" expanded="true" />
@@ -1284,11 +1285,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/all_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-322">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="161">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
           <folding>
             <element signature="e#45#54#0" expanded="true" />
-            <marker date="1543994831307" expanded="true" signature="382:809" ph="..." />
+            <marker date="1544091118940" expanded="true" signature="378:805" ph="..." />
           </folding>
         </state>
       </provider>
