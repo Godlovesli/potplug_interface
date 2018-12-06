@@ -8,7 +8,7 @@ from HTMLTestRunner_cn import HTMLTestRunner
 proPath = os.path.dirname(os.path.realpath(__file__))
 sys.path.append(proPath)
 # now = time.strftime("%Y-%m-%d %H_%M_%S")
-reportPath = os.path.join(proPath, "report" + 'result.html')
+reportPath = os.path.join(proPath, "report" , 'result.html')
 # test_dir='./cjinterface_new'  #v7interface
 
 def testrunner():
